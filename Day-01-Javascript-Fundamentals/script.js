@@ -64,6 +64,6 @@ console.log("b =", b)
 let temp = a
 a = b
 b = temp
-console.log("After Swap")
+console.log("After Swap") 
 console.log("a =", a)
 console.log("b =", b)
