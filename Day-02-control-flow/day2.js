@@ -105,7 +105,7 @@ switch (option) {
    default:
        console.log("Invalid Option");
 }
-console.log("\n===== NUMBER CHECKER =====");43
+console.log("\n===== NUMBER CHECKER =====");43  
 let num = 15;
 if (num > 0) {
    console.log("Positive Number");
@@ -114,7 +114,7 @@ if (num > 0) {
 } else {
    console.log("Zero");
 }
-console.log("\n===== FACTORIAL OF 5 =====");
+console.log("\n===== FACTORIAL OF 5 =====");4  
 let factorial = 1;
 for (let i = 1; i <= 5; i++) {
    factorial *= i;
