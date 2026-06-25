@@ -35,11 +35,11 @@ function showCompany() {
    console.log("Company:", company);
 }
 showCompany();
-console.log("\n===== Local Scope =====");
-function showMessage() {
+console.log("\n===== Local Scope =====");  
+function showMessage() { 
    let message = "This is a local variable";
    console.log(message);
-}
+}  
 showMessage();
 console.log("\n===== Practice Program 1 =====");
 function checkEvenOdd(number) {
