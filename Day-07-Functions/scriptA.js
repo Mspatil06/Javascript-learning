@@ -83,7 +83,7 @@ function printReport(id) {
         return
     }
     console.log("\n========== REPORT CARD ==========")
-
+  
     console.log("ID :", student.id)
 
     console.log("Name :", student.name)
